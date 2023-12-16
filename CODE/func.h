@@ -4,5 +4,5 @@
 
 void cout()
 {
-	std::cout << "hello\n";
+	std::cout << "helloWorld\n";//изменил
 }
