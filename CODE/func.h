@@ -4,5 +4,6 @@
 
 void cout()
 {
-	std::cout << "helloWorld\n";//изменил
+	std::cout << "helloWorldPokaWorld\n";//изменил тыкай на файл с красной хуйней
+	//дальше на Git потом Зафиксировать так блять
 }
